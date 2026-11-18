@@ -1,11 +1,11 @@
 {
   "version": "1.1.1",
   "notes": "Kho game toàn máy: tự nhận game đã cài của Epic, GOG, Ubisoft Connect, EA app, Battle.net, Riot; Thêm game ngoài bằng file .exe hoặc quét cả thư mục; Ảnh bìa tự tìm, đo giờ chơi, ẩn / ghim game, lọc theo nguồn; Tự cập nhật ngay trong app (tải ngầm, bấm một nút là xong); Sửa lỗi mở game khi đường dẫn có dấu tiếng Việt",
-  "pub_date": "2026-11-18T05:22:01.287Z",
+  "pub_date": "2026-11-18T05:32:52.486Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZElDNS9QNFZCbmRjVVdaZll5WEZ6clpiVnBmMUlVcW5kY3lkMGlQR1h0MVVLSTBLRVhTOEFSSEtOWVdLUnJzVS9pZ1JKalZFTkxFZFBMY2dxZUx0dGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc5MzIxCWZpbGU6U3dpdGNoQW55QWNjXzEuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMQpXTFBlVkNEUVpCOEpKeGtJb1orRjJSeUVTMU1tTXdQMTNmNjRwWlBRTm5qRVFtNk01dGJsS0lGeFc3blZVamxRaU9mcS9nckhSb2x0VGpDMXkyTVJCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/diegonguyen86/SwitchAnyApp-Release/main/SwitchAnyAcc_1.1.1_x64-setup.exe"
+      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.1/SwitchAnyAcc_1.1.1_x64-setup.exe"
     }
   }
 }
