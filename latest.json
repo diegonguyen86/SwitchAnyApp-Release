@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "notes": "App tự phát hiện bản mới khi đang mở: kiểm tra mỗi 30 phút và mỗi khi bạn quay lại cửa sổ app; Nút Kiểm tra cập nhật trong Cài đặt → Giới thiệu",
-  "pub_date": "2026-11-18T07:42:00.740Z",
+  "version": "1.2.2",
+  "notes": "Logo thật của Steam, Epic, GOG, Ubisoft, EA, Battle.net, Riot; Cài đặt chia nhóm Chung / Steam / Hệ thống; Mục Kho game & launcher: bật tắt từng launcher, hiện lại game đã ẩn, quét lại",
+  "pub_date": "2026-11-18T10:48:46.808Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZEd0K2c3S2lHZkxjNitQcXBES0VZTlRDSi9DSHNHd1gydU1CL00vZ2NRU1BtUUtlR3oybGF6dURZdk84WDhTRGxuMlRDMnZpaVNQSVZ0bFZZNVVYeHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg3NzIwCWZpbGU6U3dpdGNoQW55QWNjXzEuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMQo0VU16V1hlY1lsYW5najNleVpna1RzRTZ6VUFrK2VUZDVoSWtNRnczdkcwYjBkYWk2WG1HT2RBeGFVMm8vSW5neGR1OTc2M1RtSGJFWC9PdlFhc1NBZz09Cg==",
-      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.2.1/SwitchAnyAcc_1.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZEVyWFBFdTNNMzdZdXRXVThOdlh2WTE1OCtra1dGVlBLTmJaTTRCMjVoTVMwOVlteGp0RVpFM0xoc1J6QnMveG5uM0U0M2cwQW5zOVRhcTBnQXFhRGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk4OTI2CWZpbGU6U3dpdGNoQW55QWNjXzEuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMgpSdnJZNlNsb0hkZjBRZVZuTUFwUS9WQUt5T1BVWXA4V0p4cTZuQm9YVVh0WW44MHZ5RnRxNG5xdlhUZ0N0a0QwVnhRejNTUFk1cU95WGFnWDI2QUhCUT09Cg==",
+      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.2.2/SwitchAnyAcc_1.2.2_x64-setup.exe"
     }
   }
 }

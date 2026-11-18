@@ -1,5 +1,11 @@
 # Lịch sử phiên bản
 
+## 1.2.2 — 18/11/2026
+
+- Logo thật của Steam, Epic, GOG, Ubisoft, EA, Battle.net, Riot
+- Cài đặt chia nhóm Chung / Steam / Hệ thống
+- Mục Kho game & launcher: bật tắt từng launcher, hiện lại game đã ẩn, quét lại
+
 ## 1.2.1 — 18/11/2026
 
 - App tự phát hiện bản mới khi đang mở: kiểm tra mỗi 30 phút và mỗi khi bạn quay lại cửa sổ app
