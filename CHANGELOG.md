@@ -1,5 +1,12 @@
 # Lịch sử phiên bản
 
+## 1.3.0 — 18/11/2026
+
+- Giao diện gọn hơn: ít màu, ít nhãn, ít khung
+- Màn hình chờ mới lúc mở app và lúc tải kho game
+- Cài đặt: chỉ thư mục cho launcher app không tự tìm ra
+- Banner chọn đúng game chơi gần nhất
+
 ## 1.2.4 — 18/11/2026
 
 - Banner Tiếp tục chơi chọn đúng game bạn chơi gần nhất
