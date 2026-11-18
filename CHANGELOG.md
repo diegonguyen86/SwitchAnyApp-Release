@@ -1,5 +1,11 @@
 # Lịch sử phiên bản
 
+## 1.2.4 — 18/11/2026
+
+- Banner Tiếp tục chơi chọn đúng game bạn chơi gần nhất
+- Ảnh banner hiện rõ hơn
+- Sắp xếp Gần đây theo lần chơi
+
 ## 1.2.3 — 18/11/2026
 
 - Mở app luôn vào Kho game (trang chủ)

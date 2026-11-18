@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "notes": "Mở app luôn vào Kho game (trang chủ)",
-  "pub_date": "2026-11-18T11:02:01.097Z",
+  "version": "1.2.4",
+  "notes": "Banner Tiếp tục chơi chọn đúng game bạn chơi gần nhất; Ảnh banner hiện rõ hơn; Sắp xếp Gần đây theo lần chơi",
+  "pub_date": "2026-11-18T15:21:19.069Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZEFSMllsU1N4Z2FhY1dCTVIwUytPbHdFa2V0VlhnV3V4N1p6Q0VhNWRyTmQ2ZkdxY045M0RzcDlzS0JFM1orMnNtUVBWWlQrWFJPa2oxdlRYZnpLSVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5NzIxCWZpbGU6U3dpdGNoQW55QWNjXzEuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMwo2VUVaR0hjaUcxQUdvRjc3cWhZbFFqU1JscHhtMVN2cEpUbFA2UkxkR3hsb3IvdWtyZUQvTEtzdkdVTzdLOWxQYVo4eWR5L1Y2ZFd1VCtFRE5iM3VCUT09Cg==",
-      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.2.3/SwitchAnyAcc_1.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZExQNGV5T2QwbStYSVRFZ2x0b1R4VnhYUlYwcUVOWnQ2V3dzTmx6K1I3U3h1RDRuS1A2ZkE3WS9CamNsNnEzdGw2YkRGOWN2NkdoVHBnRlZhekp5YUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDE1Mjc5CWZpbGU6U3dpdGNoQW55QWNjXzEuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNAprUmpsVjltSU85V2ZmYjdSY2hGdlZYTldPdWlBV2FYV3hjZUxKbDFYeFFRR1hZenJ6TDY4UjMwMDJSQTdwNTN5eENzU0ppQ2NoY2pXWHFBRXRwQ2pCQT09Cg==",
+      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.2.4/SwitchAnyAcc_1.2.4_x64-setup.exe"
     }
   }
 }
