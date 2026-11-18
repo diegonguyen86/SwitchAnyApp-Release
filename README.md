@@ -4,16 +4,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.3/SwitchAnyAcc_1.1.3_x64-setup.exe"><img src="https://img.shields.io/badge/phiên bản-1.1.3-38bdf8?style=for-the-badge&labelColor=0b0f16" alt="Phiên bản"></a>
+  <a href="https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.4/SwitchAnyAcc_1.1.4_x64-setup.exe"><img src="https://img.shields.io/badge/phiên bản-1.1.4-38bdf8?style=for-the-badge&labelColor=0b0f16" alt="Phiên bản"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white&labelColor=0b0f16" alt="Windows 10 | 11">
   <img src="https://img.shields.io/badge/bộ cài-24.7%20MB-38bdf8?style=for-the-badge&labelColor=0b0f16" alt="Dung lượng">
   <img src="https://img.shields.io/badge/Tauri%202-Rust-38bdf8?style=for-the-badge&logo=tauri&logoColor=white&labelColor=0b0f16" alt="Tauri 2 + Rust">
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.3/SwitchAnyAcc_1.1.3_x64-setup.exe">⬇️&nbsp;&nbsp;Tải SwitchAnyAcc 1.1.3</a>
+  <a href="https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.4/SwitchAnyAcc_1.1.4_x64-setup.exe">⬇️&nbsp;&nbsp;Tải SwitchAnyAcc 1.1.4</a>
 </h3>
-<p align="center"><sub>SwitchAnyAcc_1.1.3_x64-setup.exe · 24.7 MB · phát hành 18/11/2026 · bộ cài đã ký, tự cập nhật · <a href="https://github.com/diegonguyen86/SwitchAnyApp-Release/releases">tất cả phiên bản</a></sub></p>
+<p align="center"><sub>SwitchAnyAcc_1.1.4_x64-setup.exe · 24.7 MB · phát hành 18/11/2026 · bộ cài đã ký, tự cập nhật · <a href="https://github.com/diegonguyen86/SwitchAnyApp-Release/releases">tất cả phiên bản</a></sub></p>
 
 ---
 
@@ -67,17 +67,18 @@
 
 ## 📥 Cài đặt
 
-1. Tải **[SwitchAnyAcc_1.1.3_x64-setup.exe](https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.3/SwitchAnyAcc_1.1.3_x64-setup.exe)** rồi chạy.
+1. Tải **[SwitchAnyAcc_1.1.4_x64-setup.exe](https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.4/SwitchAnyAcc_1.1.4_x64-setup.exe)** rồi chạy.
 2. Windows SmartScreen có thể báo *"Windows protected your PC"* vì bộ cài chưa mua chứng chỉ ký mã → bấm **More info** → **Run anyway**.
 3. Lần đầu muốn dùng chế độ **Offline**, vào **Cài đặt → Tường lửa** và bấm cài (cần quyền Admin đúng 1 lần).
 
 > Đã có bản cũ? Cứ chạy bộ cài mới; nếu được hỏi *"Already Installed"* thì chọn **Do not uninstall**. Từ bản 1.1.1 trở đi app tự cập nhật, không cần tải tay.
 
-## 🆕 Có gì mới trong 1.1.3
+## 🆕 Có gì mới trong 1.1.4
 
-- Cập nhật theo thời gian thực: Steam mở/tắt, đổi tài khoản, cài/gỡ game hiện ngay trên app (trước đây chậm tới 45 giây)
-- Thẻ game Steam đang chạy hiện nhãn Đang chơi
-- Giao diện phản hồi nhanh hơn (kiểm tra trạng thái nhanh gấp ~5 lần)
+- Mở app nhanh hơn ~3 giây
+- Bấm Chơi / đổi tài khoản nhanh hơn: không còn chờ Steam đăng nhập xong mới cho thao tác
+- Bật/tắt chặn mạng nhanh hơn, giao diện không còn bị đứng khi đang đổi tài khoản
+- Lần đầu mở app danh sách game hiện gần như ngay lập tức
 
 Xem toàn bộ lịch sử ở **[CHANGELOG.md](CHANGELOG.md)**.
 

@@ -1,5 +1,12 @@
 # Lịch sử phiên bản
 
+## 1.1.4 — 18/11/2026
+
+- Mở app nhanh hơn ~3 giây
+- Bấm Chơi / đổi tài khoản nhanh hơn: không còn chờ Steam đăng nhập xong mới cho thao tác
+- Bật/tắt chặn mạng nhanh hơn, giao diện không còn bị đứng khi đang đổi tài khoản
+- Lần đầu mở app danh sách game hiện gần như ngay lập tức
+
 ## 1.1.3 — 18/11/2026
 
 - Cập nhật theo thời gian thực: Steam mở/tắt, đổi tài khoản, cài/gỡ game hiện ngay trên app (trước đây chậm tới 45 giây)
