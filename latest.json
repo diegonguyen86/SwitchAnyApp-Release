@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Nhận diện Tường lửa đúng trên mọi ngôn ngữ Windows (trước đây có thể báo đã chặn mạng khi chưa chặn); Kiểm tra trạng thái chặn mạng nhanh hơn ~9 lần; Cài Tường lửa luôn dùng đúng thư mục Steam của bạn, kể cả khi nâng quyền bằng tài khoản Admin khác; Cứu hộ không chen ngang thao tác đang chạy; Sửa lỗi Steam Cloud và đăng nhập trong app khi đang ở chế độ Offline",
-  "pub_date": "2026-11-18T05:46:31.828Z",
+  "version": "1.1.3",
+  "notes": "Cập nhật theo thời gian thực: Steam mở/tắt, đổi tài khoản, cài/gỡ game hiện ngay trên app (trước đây chậm tới 45 giây); Thẻ game Steam đang chạy hiện nhãn Đang chơi; Giao diện phản hồi nhanh hơn (kiểm tra trạng thái nhanh gấp ~5 lần)",
+  "pub_date": "2026-11-18T06:11:11.239Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZEo3cTFPTERrek9rSTBNbGhyaFZNNlYvSUNiR3NSMmZGOW1aS0JaaFdITVpLeU10Z1c1YmdaZ1ErL3B1ZnI1aHVlenk4aFVrWjc3NURoOUI4UUlsYVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTgwNzkxCWZpbGU6U3dpdGNoQW55QWNjXzEuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMgpzNVJ6cTNEaC9aZGtFeW5UVWNLbWhzVkphTkhQUk9PN2tpZDErMHYrV2duLzFybm54MFNEenpwTDlWalVNV01ORUtZbTRDL3NNTjMwZUFyMXdjRU1DZz09Cg==",
-      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.2/SwitchAnyAcc_1.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZEdkeGpEVjI1Z1ROTUlKUTYwclhEZXY3a05SRmJQV3Z2WGd4WEZjbUUwdFpHcU9YanQ2cTdqTm5XSjJBUVl5NnkrTnJhbTd1TGtBaVRCRzIvN3hUVHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTgyMjcxCWZpbGU6U3dpdGNoQW55QWNjXzEuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMwpwZnpnR1VDTmNNOEZQeHRoVnFlM2NLV2ppZ1dDajMwMy9tRmRUck9uTmdYa0ZjTGgwWDlqMFQ2MVBiUEE5YVBZUk9FSGdLSDRhVTFIbjBlTGVmVEVBQT09Cg==",
+      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.3/SwitchAnyAcc_1.1.3_x64-setup.exe"
     }
   }
 }

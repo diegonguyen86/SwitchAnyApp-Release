@@ -1,5 +1,11 @@
 # Lịch sử phiên bản
 
+## 1.1.3 — 18/11/2026
+
+- Cập nhật theo thời gian thực: Steam mở/tắt, đổi tài khoản, cài/gỡ game hiện ngay trên app (trước đây chậm tới 45 giây)
+- Thẻ game Steam đang chạy hiện nhãn Đang chơi
+- Giao diện phản hồi nhanh hơn (kiểm tra trạng thái nhanh gấp ~5 lần)
+
 ## 1.1.2 — 18/11/2026
 
 - Nhận diện Tường lửa đúng trên mọi ngôn ngữ Windows (trước đây có thể báo đã chặn mạng khi chưa chặn)
