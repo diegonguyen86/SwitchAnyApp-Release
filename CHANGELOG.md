@@ -1,5 +1,9 @@
 # Lịch sử phiên bản
 
+## 1.2.3 — 18/11/2026
+
+- Mở app luôn vào Kho game (trang chủ)
+
 ## 1.2.2 — 18/11/2026
 
 - Logo thật của Steam, Epic, GOG, Ubisoft, EA, Battle.net, Riot

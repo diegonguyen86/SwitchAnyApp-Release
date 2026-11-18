@@ -1,11 +1,11 @@
 {
-  "version": "1.2.2",
-  "notes": "Logo thật của Steam, Epic, GOG, Ubisoft, EA, Battle.net, Riot; Cài đặt chia nhóm Chung / Steam / Hệ thống; Mục Kho game & launcher: bật tắt từng launcher, hiện lại game đã ẩn, quét lại",
-  "pub_date": "2026-11-18T10:48:46.808Z",
+  "version": "1.2.3",
+  "notes": "Mở app luôn vào Kho game (trang chủ)",
+  "pub_date": "2026-11-18T11:02:01.097Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZEVyWFBFdTNNMzdZdXRXVThOdlh2WTE1OCtra1dGVlBLTmJaTTRCMjVoTVMwOVlteGp0RVpFM0xoc1J6QnMveG5uM0U0M2cwQW5zOVRhcTBnQXFhRGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk4OTI2CWZpbGU6U3dpdGNoQW55QWNjXzEuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMgpSdnJZNlNsb0hkZjBRZVZuTUFwUS9WQUt5T1BVWXA4V0p4cTZuQm9YVVh0WW44MHZ5RnRxNG5xdlhUZ0N0a0QwVnhRejNTUFk1cU95WGFnWDI2QUhCUT09Cg==",
-      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.2.2/SwitchAnyAcc_1.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZEFSMllsU1N4Z2FhY1dCTVIwUytPbHdFa2V0VlhnV3V4N1p6Q0VhNWRyTmQ2ZkdxY045M0RzcDlzS0JFM1orMnNtUVBWWlQrWFJPa2oxdlRYZnpLSVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5NzIxCWZpbGU6U3dpdGNoQW55QWNjXzEuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMwo2VUVaR0hjaUcxQUdvRjc3cWhZbFFqU1JscHhtMVN2cEpUbFA2UkxkR3hsb3IvdWtyZUQvTEtzdkdVTzdLOWxQYVo4eWR5L1Y2ZFd1VCtFRE5iM3VCUT09Cg==",
+      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.2.3/SwitchAnyAcc_1.2.3_x64-setup.exe"
     }
   }
 }
