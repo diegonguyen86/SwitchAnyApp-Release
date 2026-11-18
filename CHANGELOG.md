@@ -1,5 +1,13 @@
 # Lịch sử phiên bản
 
+## 1.1.2 — 18/11/2026
+
+- Nhận diện Tường lửa đúng trên mọi ngôn ngữ Windows (trước đây có thể báo đã chặn mạng khi chưa chặn)
+- Kiểm tra trạng thái chặn mạng nhanh hơn ~9 lần
+- Cài Tường lửa luôn dùng đúng thư mục Steam của bạn, kể cả khi nâng quyền bằng tài khoản Admin khác
+- Cứu hộ không chen ngang thao tác đang chạy
+- Sửa lỗi Steam Cloud và đăng nhập trong app khi đang ở chế độ Offline
+
 ## 1.1.1 — 18/11/2026
 
 - Kho game toàn máy: tự nhận game đã cài của Epic, GOG, Ubisoft Connect, EA app, Battle.net, Riot
