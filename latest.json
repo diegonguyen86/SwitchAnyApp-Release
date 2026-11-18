@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "notes": "Mở app nhanh hơn ~3 giây; Bấm Chơi / đổi tài khoản nhanh hơn: không còn chờ Steam đăng nhập xong mới cho thao tác; Bật/tắt chặn mạng nhanh hơn, giao diện không còn bị đứng khi đang đổi tài khoản; Lần đầu mở app danh sách game hiện gần như ngay lập tức",
-  "pub_date": "2026-11-18T06:25:59.318Z",
+  "version": "1.2.0",
+  "notes": "Giao diện mới: thanh bên có đủ các launcher với màu riêng, số game và trạng thái đang mở; Trang Launcher mới: xem Steam, Epic, GOG, Ubisoft, EA, Battle.net, Riot trên máy, mở nhanh từng launcher; Kho game đẹp hơn: banner Tiếp tục chơi, lọc nhanh theo launcher, nhãn Đang chơi, thanh tiến độ khi Steam đang tải game; Cài / gỡ game hiện ngay trên app (Steam, Epic, Riot tức thì; launcher khác trong 15 giây); Ngăn chi tiết game theo từng bước dễ hiểu",
+  "pub_date": "2026-11-18T06:42:38.279Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZEJJbU9WQTdVRjViUDRWMDVkb0tpZW44RG1BQ0J3RnN6YlZJTUFLaDZKaXFXdExTVy84a0xtQ1JZKzUxWTY1Q0d6NVBKMXZHcmU0OHBIc0l3TG55ZmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTgzMTU5CWZpbGU6U3dpdGNoQW55QWNjXzEuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuNApoZmczY3BtSHpLNExTZHlPY2NEUTJTWml3aEFkZWlHNFBjMTFwbGZER1F3U3Q4SXE0SFZnYk5XL0ZoQWdnSityZ2VDZEhsMkFYUys5cTBsWWs1YUpEZz09Cg==",
-      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.1.4/SwitchAnyAcc_1.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZG4wcmtoMEljZEsvZ241QUxERmZTQ1RDaWE3T1MrK1pCZUhORnRDUmNTcEYwckVmaTFUVldFeWdWL09zTFh4bXRPT1RpMWtqNFJ6dTFrZDF6Z0VvWDJpYXZYRzdNN0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg0MTU4CWZpbGU6U3dpdGNoQW55QWNjXzEuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMApHZXBTUkwyWHY1MXRnbnZSZWFMTjNLN0dIWkoxSElqQ3p0RDdlOXlPVy91RmZWZ0s2Z00rNHA2YWlLbEpnQmp6ZUQwSytxVzc0NGYwcFhObkgwaXREQT09Cg==",
+      "url": "https://github.com/diegonguyen86/SwitchAnyApp-Release/releases/download/v1.2.0/SwitchAnyAcc_1.2.0_x64-setup.exe"
     }
   }
 }

@@ -1,5 +1,14 @@
 # Lịch sử phiên bản
 
+## 1.2.0 — 18/11/2026
+
+- Giao diện mới: thanh bên có đủ các launcher với màu riêng, số game và trạng thái đang mở
+- Trang Launcher mới: xem Steam, Epic, GOG, Ubisoft, EA, Battle.net, Riot trên máy, mở nhanh từng launcher
+- Kho game đẹp hơn: banner Tiếp tục chơi, lọc nhanh theo launcher, nhãn Đang chơi, thanh tiến độ khi Steam đang tải game
+- Cài / gỡ game hiện ngay trên app (Steam, Epic, Riot tức thì
+- launcher khác trong 15 giây)
+- Ngăn chi tiết game theo từng bước dễ hiểu
+
 ## 1.1.4 — 18/11/2026
 
 - Mở app nhanh hơn ~3 giây
