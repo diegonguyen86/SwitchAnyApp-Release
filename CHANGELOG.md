@@ -1,5 +1,10 @@
 # Lịch sử phiên bản
 
+## 1.2.1 — 18/11/2026
+
+- App tự phát hiện bản mới khi đang mở: kiểm tra mỗi 30 phút và mỗi khi bạn quay lại cửa sổ app
+- Nút Kiểm tra cập nhật trong Cài đặt → Giới thiệu
+
 ## 1.2.0 — 18/11/2026
 
 - Giao diện mới: thanh bên có đủ các launcher với màu riêng, số game và trạng thái đang mở
