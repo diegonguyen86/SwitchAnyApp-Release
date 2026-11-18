@@ -1,6 +1,6 @@
 {
   "version": "1.1.1",
-  "notes": "Chuyển kênh cập nhật sang repo SwitchAnyApp-Release",
+  "notes": "Kho game toàn máy: tự nhận game đã cài của Epic, GOG, Ubisoft Connect, EA app, Battle.net, Riot; Thêm game ngoài bằng file .exe hoặc quét cả thư mục; Ảnh bìa tự tìm, đo giờ chơi, ẩn / ghim game, lọc theo nguồn; Tự cập nhật ngay trong app (tải ngầm, bấm một nút là xong); Sửa lỗi mở game khi đường dẫn có dấu tiếng Việt",
   "pub_date": "2026-11-18T05:22:01.287Z",
   "platforms": {
     "windows-x86_64": {
